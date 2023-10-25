@@ -2,6 +2,11 @@
 
 A generic Elixir generator that doesn't require Phoenix.
 
+I essentially want to create an Elixir tool similar to:
+- https://www.cookiecutter.io/
+- https://www.hygen.io/
+- https://yeoman.io/
+
 ## Concepts / Goals
 
 - EEx Templates
