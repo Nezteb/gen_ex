@@ -46,3 +46,6 @@ Phoenix generators:
 Code modification:
 
 - https://github.com/doorgan/sourceror
+  - Examples:
+    - https://github.com/surface-ui/surface/blob/main/lib/mix/tasks/surface/surface.init.ex
+    - https://github.com/liveshowy/webauthn_components/blob/main/lib/wac_gen/router.ex
